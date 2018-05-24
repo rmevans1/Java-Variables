@@ -6,5 +6,9 @@ public class Lecture21 {
         int previousResult = result;
         result = result - 1; //operators =,-
         System.out.println(previousResult + " - 1 = " + result);
+
+        previousResult = result;
+        result = result * 10;
+        System.out.println(previousResult + " * 10 = " + result);
     }
 }
