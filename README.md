@@ -19,3 +19,7 @@ Floats and Doubles
 ### Lecture 19
 
 Char and Boolean
+
+### Lecture 20
+
+Data type review
