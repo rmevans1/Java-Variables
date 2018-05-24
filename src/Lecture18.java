@@ -1,5 +1,11 @@
 public class Lecture18 {
     public static void main(String[] args){
+        /**
+         * width of int = 32 (4 bytes)
+         * width of float = 32 (4 bytes)
+         * width of double = 64 (8 bytes)
+         */
+
         int myIntValue = 5;
         float myFloatValue = 5f;
         double myDoubleValue = 5d;
