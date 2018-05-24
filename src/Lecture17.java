@@ -18,5 +18,20 @@ public class Lecture17 {
 
         //long has a width of 64
         long myLongValue = 100L; // -9,223,372,036,854,775,808L - 9,223,372,036,854,775,807L
+
+        /**
+         * Challenge:
+         * 1. Create a byte variable and set it to any valid byte number
+         * 2. Create a short variable and set it to any valid short number.
+         * 3. Create a int variable and set it to any valid int number.
+         * 4. Create a variable of type long, and make it equal to
+         *    50000 + 10 times the sum of the byte, plus the short plus the int
+         */
+
+        byte theByte = 120;
+        short theShort = 25_000;
+        int theInt = -3_457_198;
+        long theLong = 50_000L + (10L * (theByte + theShort + theInt));
+        System.out.println("theLong = " + theLong);
     }
 }
