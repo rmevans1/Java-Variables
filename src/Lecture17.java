@@ -12,7 +12,7 @@ public class Lecture17 {
         byte myNewByteValue = (byte) (myByteValue/2); //arithmetic example- must cast to byte
         System.out.println("myNewByteValue = " + myNewByteValue);
 
-        //byte has a width of 16
+        //short has a width of 16
         short myShortValue = 30000; // -32768 - 32767
         short myNewShortValue = (short) (myShortValue/2);
 
