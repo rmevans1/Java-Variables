@@ -23,3 +23,7 @@ Char and Boolean
 ### Lecture 20
 
 Data type review and string
+
+### Lecture 21
+
+Operators
