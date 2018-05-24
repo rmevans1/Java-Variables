@@ -22,4 +22,4 @@ Char and Boolean
 
 ### Lecture 20
 
-Data type review
+Data type review and string
