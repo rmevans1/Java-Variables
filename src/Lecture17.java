@@ -10,5 +10,8 @@ public class Lecture17 {
 
         //byte has a width of 16
         short myShortValue = 30000; // -32768 - 32767
+
+        //long has a width of 64
+        long myLongValue = 100L; // -9,223,372,036,854,775,808L - 9,223,372,036,854,775,807L
     }
 }
