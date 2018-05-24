@@ -14,5 +14,13 @@ public class Lecture18 {
         System.out.println("myIntValue2 = " + myIntValue2);
         System.out.println("myFloatValue2 = " + myFloatValue2);
         System.out.println("myDoubleValue2 = " + myDoubleValue2);
+
+        //Divide by 3
+        int myIntValue3 = 5 / 3;
+        float myFloatValue3 = 5f / 3f;
+        double myDoubleValue3 = 5d / 3d;
+        System.out.println("myIntValue3 = " + myIntValue3);
+        System.out.println("myFloatValue3 = " + myFloatValue3);
+        System.out.println("myDoubleValue3 = " + myDoubleValue3);
     }
 }
