@@ -7,3 +7,7 @@ Brushing up on my java skills
 ### Lecture 16
 
 Basic datatypes- int.
+
+### Lecture 17
+
+Byte, Short, Int
