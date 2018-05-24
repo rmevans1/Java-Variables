@@ -11,3 +11,7 @@ Basic datatypes- int.
 ### Lecture 17
 
 Byte, Short, Int
+
+### Lecture 18
+
+Floats and Doubles
