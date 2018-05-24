@@ -10,5 +10,9 @@ public class Lecture21 {
         previousResult = result;
         result = result * 10;
         System.out.println(previousResult + " * 10 = " + result);
+
+        previousResult = result;
+        result = result / 5;
+        System.out.println(previousResult + " / 5 = " + result);
     }
 }
