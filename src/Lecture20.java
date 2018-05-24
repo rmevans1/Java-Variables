@@ -15,5 +15,9 @@ public class Lecture20 {
         System.out.println("myString is equal to " + myString);
         myString = myString + " \u00A9 2015";
         System.out.println("myString is equal to " + myString);
+
+        String numberString = "250.55";
+        numberString = numberString + "49.95";
+        System.out.println("The result is " + numberString);
     }
 }
