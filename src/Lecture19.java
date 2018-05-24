@@ -3,5 +3,10 @@ public class Lecture19 {
         char myChar = '$'; //can ony be 1 character
         char myChar2 = '\u00A9'; //copyright unicode
         System.out.println("Unicode output was: " + myChar2);
+
+        //boolean values
+        //used for testing
+        boolean myBoolean = false;
+        boolean isMale = true;
     }
 }
