@@ -4,5 +4,7 @@ public class Lecture17 {
         int myMaxValue = 2_147_483_647;  //max integer
 
         byte myByteValue = -128; //-128 - 127
+
+        short myShortValue = 30000; // -32768 - 32767
     }
 }
