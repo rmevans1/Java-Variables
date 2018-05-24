@@ -15,3 +15,7 @@ Byte, Short, Int
 ### Lecture 18
 
 Floats and Doubles
+
+### Lecture 19
+
+Char and Boolean
