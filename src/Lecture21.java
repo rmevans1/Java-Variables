@@ -43,5 +43,8 @@ public class Lecture21 {
         int topScore = 100;
         if(topScore == 100)
             System.out.println("You got the high score!");
+        if(topScore >= 100)
+            System.out.println("You got the high score!");
+
     }
 }
