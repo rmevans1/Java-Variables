@@ -18,5 +18,13 @@ public class Lecture21 {
         previousResult = result;
         result = result % 3;
         System.out.println(previousResult + " % 3 = " + result);
+
+        previousResult = result;
+        result = result + 1;
+        System.out.println("Result is now " + result);
+        result++;
+        System.out.println("Result is now " + result);
+        result--;
+        System.out.println("Result is now " + result);
     }
 }
