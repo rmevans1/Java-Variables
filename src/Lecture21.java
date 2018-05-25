@@ -46,5 +46,9 @@ public class Lecture21 {
         if(topScore >= 100)
             System.out.println("You got the high score!");
 
+        topScore = 80;
+        int secondTopScore = 60;
+        if(topScore > secondTopScore && topScore < 100)
+            System.out.println("Greater than top score and less then 100");
     }
 }
