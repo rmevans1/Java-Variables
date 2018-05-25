@@ -39,5 +39,9 @@ public class Lecture21 {
         boolean isAlien = false;
         if(isAlien == false) //checks if isAlien is false (==)
             System.out.println("It is not an alien!");
+
+        int topScore = 100;
+        if(topScore == 100)
+            System.out.println("You got the high score!");
     }
 }
