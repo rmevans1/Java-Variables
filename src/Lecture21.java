@@ -35,5 +35,9 @@ public class Lecture21 {
         System.out.println("Result is now " + result); //30
         result /= 10;
         System.out.println("Result is now " + result); //3
+
+        boolean isAlien = false;
+        if(isAlien == false) //checks if isAlien is false (==)
+            System.out.println("It is not an alien!");
     }
 }
