@@ -14,7 +14,7 @@ public class Lecture22 {
         //this should not work.
         // assigning isCar (=) the value of true in if returns true
         boolean isCar = false;
-        if(isCar = true)
+        if(isCar = true) //should be == to check if true
             System.out.println("This is not supposed to happen");
     }
 }
