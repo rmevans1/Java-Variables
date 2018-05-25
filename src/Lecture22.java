@@ -14,7 +14,14 @@ public class Lecture22 {
         //this should not work.
         // assigning isCar (=) the value of true in if returns true
         boolean isCar = false;
-        if(isCar = true) //should be == to check if true
+        //if(isCar = true) //should be == to check if true
+        if(isCar == true)
             System.out.println("This is not supposed to happen");
+
+        //ternary operator
+        isCar = true;
+        boolean wasCar = isCar ? true : false; //if is car == true wasCar = true else wasCar = false
+        if(wasCar)
+            System.out.println("wasCar is true");
     }
 }
