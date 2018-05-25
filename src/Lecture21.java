@@ -14,5 +14,9 @@ public class Lecture21 {
         previousResult = result;
         result = result / 5;
         System.out.println(previousResult + " / 5 = " + result);
+
+        previousResult = result;
+        result = result % 3;
+        System.out.println(previousResult + " % 3 = " + result);
     }
 }
