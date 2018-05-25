@@ -26,5 +26,14 @@ public class Lecture21 {
         System.out.println("Result is now " + result);
         result--;
         System.out.println("Result is now " + result);
+
+        result += 2;
+        System.out.println("Result is now " + result); //4
+        result *= 10;
+        System.out.println("Result is now " + result); //40
+        result -= 10;
+        System.out.println("Result is now " + result); //30
+        result /= 10;
+        System.out.println("Result is now " + result); //3
     }
 }
