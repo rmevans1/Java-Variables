@@ -27,3 +27,7 @@ Data type review and string
 ### Lecture 21
 
 Operators
+
+### Lecture 22
+
+Operators Part 2
